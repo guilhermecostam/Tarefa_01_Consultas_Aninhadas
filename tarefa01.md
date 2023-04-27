@@ -5,4 +5,5 @@ Link para as [Tarefas](https://docs.google.com/document/d/1S8QITJFW59ss9CIAiw8Uz
 
 Link para o [script de criação do esquema relacional](scripts/tarefa01-create.sql)
 Link para o [script de povoamento do esquema relacional](scripts/tarefa01-inserts.sql)
-Link para o [script das consultas resolvidas da lista de exercícios](scripts/tarefa01-consultas.sql)
+
+Link para o [script da questão 01](scripts/tarefa01-q01.sql)
