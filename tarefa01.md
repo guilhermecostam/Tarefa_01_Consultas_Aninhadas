@@ -8,3 +8,5 @@ Link para o [script de povoamento do esquema relacional](scripts/tarefa01-insert
 
 Link para o [script da questão 01](scripts/tarefa01-q01.sql)
 Link para o [script da questão 04](scripts/tarefa01-q04.sql)
+Link para o [script da questão 04](scripts/tarefa01-q07.sql)
+Link para o [script da questão 10](scripts/tarefa01-q10.sql)
