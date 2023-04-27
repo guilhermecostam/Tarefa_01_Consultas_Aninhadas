@@ -1,6 +1,5 @@
-SELECT f.nome, f.salario, d.sigla 
+SELECT f.nome, f.salario, f.codDepto 
 FROM funcionario f 
-JOIN departamento d ON f.codDepto = d.codigo 
 WHERE f.codigo NOT IN (
     SELECT codgerente
     FROM departamento
