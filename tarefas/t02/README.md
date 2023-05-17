@@ -1,7 +1,7 @@
 # Tarefa 02 - Funções e Procedimentos
 
 ## Links para as atividades
-Link para a [Atividade Tarefas 2](https://docs.google.com/document/d/1tDty2wPiMXMeF285PINT-yDX17BZMSkRpt1FGpvyVvM/edit)
+- Link para a [Atividade Tarefas 2](https://docs.google.com/document/d/1tDty2wPiMXMeF285PINT-yDX17BZMSkRpt1FGpvyVvM/edit)
 
 ## Links das resoluções das atividades
 - Link para o [script da questão 2.a](scripts/t02-a.sql)
